@@ -2,6 +2,8 @@
 
 Welcome to the GRID HANDBOOK!
 
+
+
 ## About This Handbook
 
 This Handbook's primary audience is the Grid Collective, Grid contributors or collaborators of the Grid.
@@ -16,8 +18,6 @@ Like the Grid itself, the Grid Handbook will be constantly changed.
 
 ## Scope
 
-### Scope
-
 The Handbook is a collection of concepts, processes and documents how the Grid collective approaches certain challenges.
 The scope of the book is not written in stone, but it is meant to summarize the most important aspects of how we work together.
 In addition to the _how_ we also want to illustrate some aspects of the _what_ and _why_ to give a better idea of the GRID.
@@ -28,12 +28,13 @@ The following sections reflect the scope as well.
 
 #### Main Topics
 
-* The[Grid Collective](./gridCollective/gridCollective.md)
+* The [Grid Collective](./gridCollective/gridCollective.md)
 * Learn more about the **Grid of Subgrids**
-	* the artGRID
-	* the techGRID
+	* What are [subgrids](./gridMechanics/subgrids.md) and why are they?
+	* the [artGRID](./subgridART/artGrid.md)
+	* the [techGRID](./subgridTECH/techGrid.md)
 	* the coinGRID
-	* the grid CORE
+	* the [gridCORE](./gridCORE/gridCore.md)
 * **Collaboration**
 	* How we want to collaborate
 	* The collaboration toolbelt
@@ -53,4 +54,4 @@ The following sections reflect the scope as well.
 #### More Info
 
 * FAQ - Collection of questions & answers
-* Linkcollection of Grid texts for further reading
+* [Linkcollection](./assets/linkCollection.md) of Grid texts for further reading
