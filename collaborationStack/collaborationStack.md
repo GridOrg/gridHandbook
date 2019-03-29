@@ -2,7 +2,7 @@ _Go back to overview >>_ [readme](../README.md)
 
 ## Collaboration Stack
 
-The collaboration stack is a set of tools and default methods we use for collaboration.
+The [collaboration](./collaboration.md) stack is a set of tools and default methods we use for collaboration.
 
 ### Requirements
 
