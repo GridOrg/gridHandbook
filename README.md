@@ -33,23 +33,23 @@ The following sections reflect the scope as well.
 	* What are [subgrids](./gridMechanics/subgrids.md) and why are they?
 	* the [artGRID](./subgridART/artGrid.md)
 	* the [techGRID](./subgridTECH/techGrid.md)
-	* the coinGRID
+	* the [coinGRID](./subgridCOIN/coinGrid.md)
 	* the [gridCORE](./gridCORE/gridCore.md)
 * **Collaboration**
-	* How we want to collaborate
-	* The collaboration toolbelt
-	* Regular meetings / virtual beer
-	* Main channels for communication
-	* Activities 
-	* Budgeting / Funding
-* Grid **Concepts**
-	* Grid Mechanics
-	* BOGI
-	* Values
-	* Agenda and subitems
-	* Initiatives
-	* Paradigms
-	* Further reading: v1 gridManifesto 
+	* How we want to [collaborate](./collaborationStack/collaboration.md)
+	* The [collaboration toolbelt](./collaborationStack/collaborationStack.md)
+	* Regular [meetings / virtual beer](./collaborationStack/meetings.md)
+	* Main [channels](./collaborationStack/mainChannels.md) for communication
+	* [Activities](./collaborationStack/activities.md) 
+	* [Budgeting / Funding](./gridCore/funding.md)
+* Grid **Mechanics**
+	* Battle of glorious ideas - [BOGI](./gridMechanics/bogi.md)
+	* [Values](./gridVALUES/gridValues.md)
+	* [Agenda](./gridAGENDA/gridAgenda.md)
+	* [Initiatives](./gridMechanics/initiatives.md)
+	* [Paradigms and beliefs](./gridVALUES/paradigms_beliefs.md)
+	* [Roles](./gridMechanics/roles.md)
+	* Further reading: v1 [gridManifesto](./gridManifesto/gridManifesto.md) 
 
 #### More Info
 
