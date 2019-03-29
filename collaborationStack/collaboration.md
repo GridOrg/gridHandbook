@@ -131,14 +131,122 @@ Finally. The battle of ideas should be fun. So be curious, which ideas will be b
 
 #### Agenda Fit
 
+The GRID has an [AGENDA](../gridAGENDA/gridAgenda.md). The agenda of the GRID is the consequence of 
+1. The [GRID VALUES](../gridVALUES/gridValues.md)
+2. The focus areas we think are important for us on a personal level
+3. The space in which we consider the GRID to contribute with ideas and initiatives
 
+Subgrids also form out own agendas, driven by the special approach of each subgrid.
+It is most likely, that the GRID agenda and the subgrid agendas are influencing each other over time and also, that there are many connections.
+All in all the agenda is a vital construct to sharpen the attention towards actionable areas in the surrounding reality, like the global society.
+Agendas are not meant to be written ins stone, not meant to be static. But it can be reflected as the bottom-up or distributed accumulation of areas where we see the need for change.
+As the GRID fundamentally values utopian drafts of what could be, the agenda also represents areas for which we see the need for visions, utopical concepts and new thinking.
 
+Initiatives and methods therefore are somehow interwinded with agenda items or based on the rational of where we see the need for change.
+What we do, for instance which activity we plan, could be matched against the agenda to assess a fit.
+By doing so, we quickly can assess if we are acting towards the outcome we expect by ourselves or if we do random stuff.
+
+Random stuff is not bad in any case. But if we want the GRID to be a collective which creates an impact, then we should reflect our decisions related to our very own agenda setting.
+
+The contribution to the agenda, updates, additions or other modifications, can be raised at any time.
+How we maintain the agenda needs finally to be found as a best-practice.
+The gridCORE is also taking care on the maintenance of the agenda, so that for instance discussions will be triggered throughout the GRID.
+The more vital and relevant the agenda is, the more precise our actions can become.
+
+Collaboration as a form of dialogue and activity towards a group output is not self-explaining. 
+Our most precise explanation for collaboration is the agenda.
+Working on the agenda is collaboration as such.
 
 ### Ambitions
 
+What are the ambitions behind our will to collaborate?
+
+a) The world has changed and new forms of collaboration will become necessary
+
+We do not live in tribes anymore, we are not organized by bureaucratic systems like religions anymore in total.
+The world has become a global network of human beings. Our technology has changed the way we approach reality dramatically.
+But some aspects fell behind. We did not spend enough time on out-thinking or re-designing concepts like nations, work, social systems and much more.
+Most of the stuff we do, we do on the basis of legacy rationals. We jsut added new features to the old concepts. Changed it a bit here and there.
+But the main logic remained the same.
+
+If we would not limit ourselves to this linear thinking, then it quickly could become obvious that other variants of how to do things would be more reasonable.
+Work for instance is in most cases the source for individual income, property or power - on the basis of money. But why is work dominated by this concept?
+Work could be used to achieve a world of unlimited chances for the individual progress and the collective future. So why is that?
+The answer might be very simple - work is offered by people running companies. Their major concern is revenue, shareholder value, return on invest etc. - you name it.
+It is not the fault of those individuals to offer other people jobs. It's not the fault of people who exchange their livetime and working effort for money and perhaps influence.
+The biggest bug here is, that we are too lazy to invest more time in thinking alternatives, we then also try out.
+
+Mass collaboration of individuals is one of the alternatives. 
+In that scenario people could create their sources for income, they could combine power, skills and resources to achive higher impact.
+People could emancipate themselves from the need of joining the classical market game by backing up each other. By doing so, they could focus their efforts on activities they think are valuable for society, not for the shareholder. Enablers for this new opportunities are some technologies, which allow global mass collaboration or even exchange of values without man the middle. Other enablers for this new world of work are social and historical achievements, for sure. The democratization of means of production (especially in the creative space) and the shift from an agrucultural focus of man to a highly differenciated education and economy forces into a direction, by which niches are easy to find and fill for the individual. 
+There is always more demand of more new stuff. It's not about blind consume, it is about the logic of differnciation and it exponential consequence.
+
+The big power player, like nations, gatekeeper or opinion leader, enterprises, rich families, bureaucratic institutions etc. of course are not interested in changes which would introduce negative impact for them. So that it is only natural, that they aim for further growth or further influence and not for shrinking and loss of influence.
+That might explain why most people work a significant amount of lifetime (even in bullshit-jobs) in a world of technological automation.
+
+To conclude, in a world that changes, new forms of collaboration has to be researched. The ambition is to identify changes to increase the individual opportunities and a new thinking model for what the human collective might become, if we try.
+
+b) Trading
+
+Collaboration is trading.
+You trade ideas, skills, thoughts, time, support etc.
+Trading is nothing bad, since it only works out well, if all parties see a benefit.
+
+One ambition of the GRID as a collaborative is to establish a mega trading platform.
+If a massive collective would trade all skills, ideas etc. over the barriers of nations, religions, colors and other fictions, then image the potential of this collaborative.
+
+Collaboration as a_quid pro quo_ paradigm could integrate the egoistic ambition of the subject with the bigger progress of the group.
+
+Collaborations opens many options to accomplish an own project idea with the help of others, but allows the collective to aim for higher targets.
+So collaboration as a form of trading is deeply embedded in the existing logic of the _homo oeconomicus_, but paves the way for a new form of collective collaboration.
+The ambition can only be to let people form syndicates to make positive impact to the world they live in.
+
+
+c) Utopia(s)
+
+A main theme for the GRID is the design of utopical concepts.
+We want to articulate possible visions for the future, against or towards which we then can position ourselves.
+We love ideas, creativity, the imaginary power of the human being. The GRID shall be a place to cultivate the work on ideas and vision for the future.
+
+This is not naive.
+
+This is luxury.
+
+By using our collaborative powers to work on utopical ideas, we enhance the individual possibilities to think in alternatives.
+So working on utopia is not only an attitude, it is also a technique to think in variances for how present challenges could be mastered.
+
+
 #### Evolution
 
+The way we collaborate will change over time.
+Collaboration in the GRID shall be open for change and new methodologies and practices can be integrated.
+The idea of collaboration will most probably change also over time.
+
+Evolution is an important principle for all dimensions of the GRID.
+
+Collaboration will change the face of the GRID itself.
+
+Subgrids will differ over time in the way how the collaboration is cultivated and which approaches work out pretty well.
+Therefore subgrids are influencal incubators of new practices and collaboration ideas. 
+The exchange of this DNA and the survival of the fittest concepts for collaboration will have no definite end.
+
+We think, incremental change, adaption to new challenges and mutation or experimentation enrich the foundation of the GRID.
+
+
 #### Deep Diving
+
+Deep Diving means, that the GRID is a place for deeper thoughts, complicated discussions and exploration of the unknown.
+The GRID collective needs to be capable of surviving discussions, debates, critical thoughts and voices, also conflicts.
+Diving deep is a quality which got a bit lost in our modern times. At least more information is driven by a low-hanging-fruit mentality.
+Efficient communication, usage of modern technology for exchanging thoughts, all of this is no excuse to not dive deeper.
+
+As explorers of the unknown, as utopists and critical minds, we always want to understand the next level of depth.
+This attitude of course is not valid for every gridster and is not a requirement for becoming a gridster.
+But it has to be a common sense, that deeper thoughts, critical debates of complex topics or holistic thinking are not an enemy.
+On the contrary, it has to be a foundation we share among the GRID.
+
+Deep Diving should not be mixed-up with trolling, elitary behaviour or the attitude of exclusion of others from a dialogue.
+Deep Diving shall be the synonym for the discoursive exploration of a next level.
 
 
 ### Agreement
