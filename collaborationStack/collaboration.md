@@ -249,14 +249,40 @@ Deep Diving should not be mixed-up with trolling, elitary behaviour or the attit
 Deep Diving shall be the synonym for the discoursive exploration of a next level.
 
 
-### Agreement
-
-
-
 ### Collaboration Lab
 
+The GRID experiments on collaborative practices, models and concepts.
+Besides agreed practices, new approaches can be tested.
+
+What we want to achieve is a lab-approach besides existing best-practices already rolled out.
+To test new collaboration practices, we should analyse the outcome of the approach and share insights.
+This will allow other groups (e.g. subgrids) to iterate on findings and follow own hypothesis.
+
+So testing and experimentation should be connected to transparency and sharing.
+
+Rolling out a new practice should be done with the integration of the gridCore, so that all administrative consequences can be tackled.
+Changing the way we do things in general is a natural process of evolution. But depending on the impact, the gridCore shall be actively involved here.
 
 
 ### Collaboration Stack
 
 Read more about the [stack of tools](./collaborationStack.md) we use.
+
+### Collaboration No-Go habits
+
+The Grid strictly is against:
+
+* Harmful ignorance or intollerance
+* Any form of sexism, harrassment, racism, fashism, anti-semitism
+* Reactionary or populistic behaviour
+* Misuse of power
+* Insults and abuse
+* Cruelty and violence against other beings
+
+For the sake of a positive collaboration culture, the GRID does not support the following:
+
+* Intentional misuse of time and ressources of others for personal benefits, especially if not traded as act of fair collaboration
+* Blaming, trolling or bullying and verbal attacking of individuals
+* Searching for faults in the work of others without offering anything
+* Intransparency and irresponsibility
+
