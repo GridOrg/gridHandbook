@@ -4,15 +4,17 @@ _Go back to overview >>_ [readme](../README.md)
 
 ### Intro to Subgrids
 
-	* What are [subgrids](../gridMechanics/subgrids.md) and why are they?
+* What are [subgrids](../gridMechanics/subgrids.md) and why are they?
 
 ### Intro to the gridCORE
 
-The gridCORE is a subgrid, but has some focus areas to keep the GRID running.
+The gridCORE is a subgrid, too. But it is focussed on service and administrative functions to keep the GRID running.
+
 
 ### Special function of the gridCORE
 
 The gridCore is a subgrid, but with special purpose.
+
 As most subgrids are active in a certain area of interest of focussed on a special agenda, the gridCore is meant to be the opposite.
 It can be understood as a service and administrative function of or better for the GRID.
 
