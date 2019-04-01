@@ -21,14 +21,14 @@ But if there is a (underserved) need to meet somewhere in a real location, than 
 
 ### Outcome Focussed Activity
 
-Outcome focussed activities are driven by a challenge, a result, a problem or fun.
+Outcome focussed activities are driven by a [challenge](../gridMechanics/challenges.md), a result, a problem or fun.
 As collaborative we try to achieve outcome together. No one will be pushed to do this or that.
 All we do needs to be based on intrinsical motivation. That's why it is important to speak about the ambition level of the team in each project to prevent that people feel bad or frustrated. 
 
-Regular events, like meetings, can of course be part of project related routines.
+Regular events, like [meetings](./meetings.md), can of course be part of project related routines.
 The same is true for social activities within the group of a team. There are simply no strict rules determining how each group should proceed to achieve the own outcome-related ambitions.
 
-Initiatives, the BOGI, work on agenda items, all of this is connected to the areas of activity which are driven by the expected outcome.
+[Initiatives](../gridMechanics/initiatives.md), the [BOGI](../gridMechanics/bogi.md), work on [agenda](../gridAGENDA/gridAgenda.md) items, all of this is connected to the areas of activity which are driven by the expected outcome.
 The expectations we might have related to outcome are the result of our very own definitions. 
 
 This means, how much activity (and effort) we invest into any kind of project or topic is reflecting our own ambition level.
