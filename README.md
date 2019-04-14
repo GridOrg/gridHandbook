@@ -28,6 +28,7 @@ The following sections reflect the scope as well.
 
 #### Main Topics
 
+
 * The [Grid Collective](./gridCollective/gridCollective.md)
 * Learn more about the **Grid of Subgrids**
 	* What are [subgrids](./gridMechanics/subgrids.md) and why are they?
@@ -46,12 +47,17 @@ The following sections reflect the scope as well.
 	* Battle of glorious ideas - [BOGI](./gridMechanics/bogi.md)
 	* [Values](./gridVALUES/gridValues.md)
 	* [Agenda](./gridAGENDA/gridAgenda.md)
-	* [Initiatives](./gridMechanics/initiatives.md)
+	* [Initiatives](./gridMechanics/initiatives.md)	
+	* [Challenges](./gridMechanics/challenges.md)
 	* [Paradigms and beliefs](./gridVALUES/paradigms_beliefs.md)
 	* [Roles](./gridMechanics/roles.md)
-	* Further reading: v1 [gridManifesto](./gridManifesto/gridManifesto.md) 
+* Guides
+	* [Onboarding](./assets/onboarding.md) 
+* Agreements
+	
 
 #### More Info
 
-* FAQ - Collection of questions & answers
+* [FAQ](./FAQ/FAQ.md) - Collection of questions & answers
 * [Linkcollection](./assets/linkCollection.md) of Grid texts for further reading
+* Further reading: v1 [gridManifesto](./gridManifesto/gridManifesto.md) 
