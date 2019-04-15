@@ -1,16 +1,16 @@
 _Go back to overview >>_ [readme](../README.md)
 
-## Main Channels
+# Main Channels
 
 The most important channels we use, are:
 
-* Slack for various purposes and chat
-* Trello for collecting ideas or planning
-* Video calls (for example via skype or appear.in) to replace physical presence and meet for a virtual beer
+* **Slack** for various purposes and chat
+* **Trello** for collecting ideas or planning
+* **Video calls** (for example via skype or appear.in) to replace physical presence and meet for a virtual beer
 
-For the coordination of events (like meetings) global calendars of course help us to organize.
+For the coordination of events (like meetings) **global calendars** of course help us to organize.
 
-### New Gridster hints
+## New Gridster hints
 
 If you are new to the GRID, the most important aspect is to get to know some people.
 Get in touch with your mentor, most probably the person who invited you or the mentor of the subgrid you are in.
@@ -31,7 +31,7 @@ And never forget to introduce yourself to the others - they are happy to see a n
 Don't be shy, be explorative and ask your mentor any question you want.
 
 
-### Main Trello Boards
+## Main Trello Boards
 
 In Trello the GRID is organized in a team.
 All boards of the team can be found on the team page.

@@ -1,5 +1,8 @@
 _Go back to overview >>_ [readme](../README.md)
 
+
+# Meetings
+
 ## Regular Meetings
 
 We use a global event calendar to plan GRID meetings or events, so that other gridsters are informed.

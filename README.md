@@ -51,10 +51,11 @@ The following sections reflect the scope as well.
 	* [Challenges](./gridMechanics/challenges.md)
 	* [Paradigms and beliefs](./gridVALUES/paradigms_beliefs.md)
 	* [Roles](./gridMechanics/roles.md)
+		* [Mentor](./assets/theMentor.md)
 * Guides
 	* [Onboarding](./assets/onboarding.md) 
 * Agreements
-	
+
 
 #### More Info
 

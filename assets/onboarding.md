@@ -65,3 +65,8 @@ Use the time to take a look around, to get to know some people. Just ping other 
 - If you haven't so far, really try to find one starting project to join.
 - Look at the calendar (of your subgrid or the GRID) and join a relevant video call to get to know some more people. A virtual beer is a good chance to connect.
 
+
+## See Also
+
+* [Subgrids](../gridMechanics/subgrids.md)
+* [Main Channels](../collaborationStack/mainChannels.md)
