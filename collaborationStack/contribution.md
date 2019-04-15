@@ -51,6 +51,13 @@ Now, if you want to join with the ambition to contribute, then some aspects shou
 
 A common sense for the concept of contribution should be, that we help each other on the basis of respect and that we aim for productive collaboration.
 
+### Contribution To The Handbook
+
+- You need a basic knowledge on git / github. Ask for help via slack, if you need an intro.
+- Clone the repository.
+- Commit your changes to the branch latest and assign a reviewer in the PR. Default reviewer can be gridster, as most text was intitially done via this account.
+- Please do not directly merge changes to the master branch without review of PRs.
+
 
 ## See Also
 

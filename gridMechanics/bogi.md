@@ -9,6 +9,20 @@ Via (bogi.work)[http://bogi.work] more infos are shared on a general level, main
 
 In the GRID, the BOGI is represented through a Trello board. Right now, we do not make use of it in a very disciplined fashion, which so far worked out well.
 
+## BOGI for the GRID, BOGI for subgrids
+
+The BOGI is a technique, which can be hacked, enhanced, reduced, fine-tuned.
+In the GRID we started with the BOGI-board to collect ideas as such.
+Each subgrid of course is free to set up an own version of the BOGI or to make use of some aspects of it, if helpful.
+
+There is no binding ruleset for who should use the BOGI.
+
+But having a common methodology in place when it comes to collection, discussion and qualification of ideas helps gridsters to contribute.
+If all groups and subgrids do everything extremely different, then barriers are higher for new people to join in. So, the BOGI is only an offer, but the establishing of common practices helps to get into action and to overcome practical barriers.
+
+
+## BOGI intro
+
 In the following you will find a more general description of what the BOGI is all about ...
 
 _NOTE: The description below is not specially adapted to the GRID!_
