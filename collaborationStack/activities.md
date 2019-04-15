@@ -47,6 +47,7 @@ This can happen and will happen.
 Since the perceived activity level can be either be motivating for people to consider more own contribution or (when there is only rare activity) demotivating, everyone should know how to trigger the dynamics of the group. This has to be based on the rational and deep understanding, that groups are nothing to consume, but to build up. 
 
 So what could each gridster do to maintain the critical level of activity?
+
 Just a few examples:
 
 * Get to know people and introduce yourself - do not hide your personal traits or your personality, bring yourself in and enrich the group with yourself
@@ -63,6 +64,9 @@ Just a few examples:
 * Be pro-active, not only active
 * Ask critical questions, if there is a need, share your honest opinion ... but stay constructive and fair
 
+## Also Read
+
+Also read more about [contribution](../collaborationStack/contribution.md) and [collaboration in the GRID](../collaborationStack/collaboration.md) in general.
 
 
 
