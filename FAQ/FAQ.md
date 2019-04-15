@@ -10,3 +10,8 @@ _Go back to overview >>_ [readme](../README.md)
 ## Links To Other Sections
 
 - [See our Agreements](../gridAgreements/agreements.md)
+
+
+## What Main Channels Are Important To Get Started?
+
+- [Main Channels](../collaborationStack/mainChannels.md))

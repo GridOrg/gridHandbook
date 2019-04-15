@@ -1,13 +1,13 @@
 _Go back to overview >>_ [readme](../README.md)
 
-## Activities
+# Activities
 
 A bunch of activities is possible in the GRID.
 Not all potential activities will become real.
 What each other associates with the term 'activity' is different.
 That sometimes makes it hard to speak about the same measures.
 
-### Social Activity
+## Social Activity
 
 If you want to meet others in person, if you want to plan a cool event, if you want to make new friends - just start doing it.
 The GRID is not a place for you to consume what others are initiating, it relies on your contribution.
@@ -19,7 +19,7 @@ What we frequently do, is having a virtual beer during one of our video [meeting
 But if there is a (underserved) need to meet somewhere in a real location, than someone just should do the first step and propose an event.
 
 
-### Outcome Focussed Activity
+## Outcome Focussed Activity
 
 Outcome focussed activities are driven by a [challenge](../gridMechanics/challenges.md), a result, a problem or fun.
 As collaborative we try to achieve outcome together. No one will be pushed to do this or that.
@@ -39,7 +39,7 @@ So every team (of an initiative, of a subgrid) should discuss what is needed.
 Initiators of a project or mentors of a subgrid should also try to trigger context related activity to keep the ball rolling.
 
 
-### How To Become More Active?
+## How To Become More Active?
 
 It might be, that there is a phase of low activity or even a point where there is no activity at all.
 This can happen and will happen.

@@ -1,10 +1,10 @@
 _Go back to overview >>_ [readme](../README.md)
 
-## Collaboration
+# Collaboration
 
 A key ingredient of the GRID is collaboration.
 
-### Individual vs. Collective
+## Individual vs. Collective
 
 The GRID is about collective collaboration. But in addition to that, the individual minds and the unique personalities are valued.
 This leads to the need that we have to balance out individuality and collective mechanisms.
@@ -42,7 +42,7 @@ Without having a code of conduct, we aim for some behavioural attitudes, which m
 - Remember, that all others are there to collaborate with you
 
 
-### Decision Making
+## Decision Making
 
 Decisions are necessary in various constellations. If a group is not able to decide how to move forward, then it might be that there will not be a move forward.
 There are several questions connected to a decision making process.
@@ -80,7 +80,7 @@ Global GRID-approaches should be raised towards the [coreGrid](../gridCORE/gridC
 
 
 
-#### Voting
+### Voting
 
 There are tools to do quick polls or even surveys.
 Voting in regards to the ambition of consensus is also driven by the mechanics behind.
@@ -104,7 +104,7 @@ If you think of [budgeting or co-funding](../gridCORE/funding.md) then the conte
 
 NOTE: If budgets (like, based on artificial tokens / points as internal currency for weighting / value expression) or real money is collected, depends on the case. Today, the GRID has no financial backing and is non-commercial. As such, there is no real budget to spend. If the need will show up, we have to find ways of how to deal with funding and budget-assessment. This is already a preparational task of the gridCORE, but is also connected to legal and compliance aspects, so that we do not tackle this until the day we really need it.
 
-#### Qualification of Initiatives
+### Qualification of Initiatives
 
 If a subgrid wants to discuss [initiatives](../gridMechanics/initiatives.md), there are no formal rules of how this needs to happen.
 This is the case, because of the autonomy of the subgrids.
@@ -129,7 +129,7 @@ The discussion of what a subgrid wants to achieve is a good foundation for the a
 Finally. The battle of ideas should be fun. So be curious, which ideas will be brought up.
 
 
-#### Agenda Fit
+### Agenda Fit
 
 The GRID has an [AGENDA](../gridAGENDA/gridAgenda.md). The agenda of the GRID is the consequence of 
 1. The [GRID VALUES](../gridVALUES/gridValues.md)
@@ -157,7 +157,7 @@ Collaboration as a form of dialogue and activity towards a group output is not s
 Our most precise explanation for collaboration is the agenda.
 Working on the agenda is collaboration as such.
 
-### Ambitions
+## Ambitions
 
 What are the ambitions behind our will to collaborate?
 
@@ -216,7 +216,7 @@ By using our collaborative powers to work on utopical ideas, we enhance the indi
 So working on utopia is not only an attitude, it is also a technique to think in variances for how present challenges could be mastered.
 
 
-#### Evolution
+### Evolution
 
 The way we collaborate will change over time.
 Collaboration in the GRID shall be open for change and new methodologies and practices can be integrated.
@@ -233,7 +233,7 @@ The exchange of this DNA and the survival of the fittest concepts for collaborat
 We think, incremental change, adaption to new challenges and mutation or experimentation enrich the foundation of the GRID.
 
 
-#### Deep Diving
+### Deep Diving
 
 Deep Diving means, that the GRID is a place for deeper thoughts, complicated discussions and exploration of the unknown.
 The GRID collective needs to be capable of surviving discussions, debates, critical thoughts and voices, also conflicts.
@@ -249,7 +249,7 @@ Deep Diving should not be mixed-up with trolling, elitary behaviour or the attit
 Deep Diving shall be the synonym for the discoursive exploration of a next level.
 
 
-### Collaboration Lab
+## Collaboration Lab
 
 The GRID experiments on collaborative practices, models and concepts.
 Besides agreed practices, new approaches can be tested.
@@ -268,7 +268,10 @@ Changing the way we do things in general is a natural process of evolution. But 
 
 Read more about the [stack of tools](./collaborationStack.md) we use.
 
-### Collaboration No-Go habits
+New gridster may have a look at the [main channels](../collaborationStack/mainChannels.md) to start step by step.
+
+
+## Collaboration No-Go habits
 
 The Grid strictly is against:
 
